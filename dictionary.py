@@ -30,7 +30,6 @@ def translate(word):
         else:
             print("Press \"Y\" to continue or \"N\" to stop ")
 
-
     else:
         print("This word does not exist")
 
